@@ -1,0 +1,15 @@
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+    log = auto
+[user]
+	email = ron_chen@arcadyan.com
+	name = Ron Chen
+[core]
+	editor = vim
+[alias]
+    br = branch
+    st = status
+	co = checkout
+    logall = log --decorate --oneline --graph --all
