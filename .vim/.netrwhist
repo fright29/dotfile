@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home3/ron_chen/TA-MAP/ALDK_MTK_Base_clean/config/WE410443-TA/overwrite/package/arcadyan-utility/arc_owl'
+let g:netrw_dirhist_2='/home3/ron_chen/Telstra/config/VRV9519RWAC34-A-TA'
+let g:netrw_dirhist_3='/home3/ron_chen/Telstra/logs/package/arcadyan-utility/lib_arc_owl'
+let g:netrw_dirhist_4='/home3/ron_chen/TA-MAP/ALDK_MTK_Base_clean/package/arcadyan-utility/arc_owl/src.map/ext_api/WE410443_SA'
+let g:netrw_dirhist_5='/home3/ron_chen/TA-MAP/ALDK_MTK_Base_clean/package/arcadyan-utility/arc_muap_lib/src/wifi/WE410443_SA'
+let g:netrw_dirhist_6='/home3/ron_chen/TA-MAP/ALDK_MTK_Base_clean/package/arcadyan-utility/arc_muap_lib/src/wifi'
