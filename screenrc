@@ -34,6 +34,7 @@ bind ^h
 bind h
 bind ^b
 bind ^u
+bind ^?
 # Longer scroll history
 defscrollback 32768
 
